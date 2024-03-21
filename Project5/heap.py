@@ -1,7 +1,6 @@
 # % Class to wrap python's heap functions
 # % ECE 8396: Medical Image Segmentation
 # % Spring 2024
-# % Author: Prof. Jack Noble; jack.noble@vanderbilt.edu
 
 import heapq as hq
 class heap:

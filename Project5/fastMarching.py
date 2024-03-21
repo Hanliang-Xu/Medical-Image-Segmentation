@@ -2,7 +2,6 @@
 # % upwindEikonal function needs to be added
 # % ECE 8396: Medical Image Segmentation
 # % Spring 2024
-# % Author: Prof. Jack Noble; jack.noble@vanderbilt.edu
 
 
 import copy

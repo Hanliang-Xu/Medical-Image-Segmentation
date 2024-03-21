@@ -1,7 +1,6 @@
 # % Class to perform 3D Laplacian Smoothing
 # % ECE 8396: Medical Image Segmentation
 # % Spring 2024
-# % Author: Prof. Jack Noble; jack.noble@vanderbilt.edu
 
 import numpy as np
 from scipy import sparse

@@ -2,7 +2,6 @@
 # % gradientNB, curvatureNB, DuDt2 functions need to be added
 # % ECE 8396: Medical Image Segmentation
 # % Spring 2024
-# % Author: Prof. Jack Noble; jack.noble@vanderbilt.edu
 
 import numpy as np
 from fastMarching import *

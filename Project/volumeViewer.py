@@ -1,7 +1,6 @@
 # % Class to create interactive 3D image/mask viewer
 # % EECE 8396: Medical Image Segmentation
 # % Spring 2024
-# % Author: Prof. Jack Noble; jack.noble@vanderbilt.edu
 #
 
 # % Example usage:
